@@ -134,6 +134,6 @@ int main()
         mysteryWordGame(targetWord);
         game = questionReplay();
     }
-    cout << "Aurevoir" << endl;
+    cout << "Au revoir" << endl;
     return 0;
 }
